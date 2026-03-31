@@ -21,4 +21,4 @@ DAX — criação das medidas e KPIs
 Sobre os Dados:
 Os dados utilizados neste projeto são 100% fictícios, criados manualmente para fins de estudo e demonstração. Não representam nenhuma empresa real.
 
-Captura de tela 2026-03-31 193429.png
+
